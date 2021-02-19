@@ -8,11 +8,11 @@ My name is Vinicius Fragalli and this is my personal account. I work as a Softwa
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragalli&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragalli&layout=compact&count_private=true&theme=gruvbox)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Fragalli&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Fragalli&count_private=true&show_icons=true&theme=gruvbox)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Fragalli&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Fragalli&hide_border=true&theme=gruvbox)
 
 ### Let's connect? 🤝
 
